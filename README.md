@@ -20,8 +20,4 @@ Analyzes a list of numbers to compute the percentage of values less than or equa
 Converts total seconds into a standard 12-hour time format (HH:MM:SS AM/PM).
 # question8.py
 Constructs a Pandas DataFrame and adds a new column with values calculated from existing data.
----
-# 📝 Notes
-- All scripts run without errors.
-- Comments are included to explain the logic.
-- This file fulfills the requirement for Question 9.
+
